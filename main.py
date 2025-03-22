@@ -24,6 +24,5 @@ if str(woodType) == "oak":
 if str(color) == "gold":
     charge = charge + 15
 
-
 # Output Charge for this sign.
 print("The charge for this sign is $" + str(charge))
